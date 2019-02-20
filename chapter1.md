@@ -10,6 +10,8 @@
 | ICGC |  | 9000 |
 | TCGA |  | 10000 |
 
+
+
 目前分析常用数据库
 
 | Databse | Abstract |
